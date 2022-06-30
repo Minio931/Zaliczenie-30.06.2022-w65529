@@ -151,7 +151,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Samochód.cpp" />
     <ClCompile Include="Zaliczenie 2.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Samochód.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
